@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NewClient/NewClient.iml" filepath="$PROJECT_DIR$/NewClient/NewClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmortBJ.iml" filepath="$PROJECT_DIR$/SmortBJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smortbjclient/smortbjclient.iml" filepath="$PROJECT_DIR$/smortbjclient/smortbjclient.iml" />
     </modules>
   </component>
 </project>
